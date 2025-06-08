@@ -98,11 +98,8 @@ Demonstrates modular API-based architecture.
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonymbugua/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/antonymbugua742)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonymbugua742@gmail.com)
+📫 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/antony-mbugua/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> <a href="https://github.com/antony-mbugua"> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /> </a> <a href="mailto:antonymbugua742@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /> </a> <a href="https://tryhackme.com/p/incog742"> <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe" /> </a> <a href="https://app.hackthebox.com/profile/800291"> <img src="https://img.shields.io/badge/Hack_The_Box-111927?logo=hackthebox&logoColor=white&style=for-the-badge" alt="Hack The Box" /> </a> <a href="https://www.youtube.com/@antony-mbugua" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /> </a> <a href="https://twitter.com/tow_knee_" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> </a> <a href="https://www.instagram.com/tow_knee_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> </div>
 
 ---
 ## 📊 GitHub Stats
