@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antony Mbugua! <br/><a href="https://github.com/antony-mbugua">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/antony-mbugua/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Antony Mbugua! <br/><a href="https://github.com/antony-mbugua">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/antony-mbugua/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/antony-mbugua">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
