@@ -105,10 +105,13 @@ Demonstrates modular API-based architecture.
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonymbugua742@gmail.com)
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antony-mbugua&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-mbugua&layout=compact&theme=github_dark" width="49%" />
+</p>
 
-[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonymbugua742&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
