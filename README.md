@@ -108,8 +108,7 @@ Demonstrates modular API-based architecture.
 
 ## 📈 GitHub Stats
 
-![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonymbugua742&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonymbugua742&layout=compact)
+[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonymbugua742&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
