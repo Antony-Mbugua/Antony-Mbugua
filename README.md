@@ -33,7 +33,7 @@
 >  
 > 🛠 Built with:  
 > • **Frontend:** React.js + Vite  
-> • **Backend:** Node.js/Express & Laravel (Driver Auth)  
+> • **Backend:**  Laravel (Driver Auth)  
 > • **Database:** MySQL  
 > • **Admin Panel:** Filament (PHP)  
 > • **Deployment:** Hostinger Servers  
