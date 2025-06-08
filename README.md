@@ -1,93 +1,118 @@
-<h1 align="center">Hi, I'm Antony Mbugua Githinji 👋</h1>
-<p align="center">
-  <a href="https://github.com/antony-mbugua">Ethical Hacker</a> • 
-  <a href="https://www.linkedin.com/in/antony-mbugua/">Cybersecurity Professional</a> • 
-  <a href="https://www.youtube.com/c/antonymbugua">YouTuber</a>
+<h1 align="center">Hi 👋, I'm Antony Mbugua Githinji</h1>
+<h3 align="center">🚀 Developer | 🛡️ Cybersecurity Enthusiast | ☁️ Cloud Learner</h3>
+
+---
+
+### 🧑‍💻 About Me
+
+🎓 Final year student at **KCA University**, specializing in **Information Security & Forensics**  
+💼 Currently a **Cybersecurity Intern** at **The Red Users**  
+🧠 Learning through **Cyber Shujaa** scholarship — Cloud & Network Security  
+🛠️ Developer of internal systems for logistics companies **All Over Logistics** and **277 Logistics**  
+🎯 Passionate about building secure, scalable web systems and hands-on cybersecurity practice
+
+---
+
+### 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,mysql,php,ts,js,cs,html,css,tailwind,bash,linux,vscode,github" />
 </p>
 
 ---
 
-🎓 **Final Year Applied Computing Student (Cybersecurity & Forensics)**  
-📍 **Cybersecurity Intern @ The Red Users**  
-🏛️ **KCA University | Class of 2025**  
-🔐 **Cyber Shujaa Program — Cloud & Network Security Scholar**  
-🎖️ **Credly Badges | TryHackMe | Hack The Box**
+## 🧰 Tools
+
+### 🛰️ Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### 💻 Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### 📊 SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Skills
 
-- SIEM, Incident Response & Pen Testing  
-- Cybersecurity Portfolio & Capture The Flag (CTF)  
-- Cloud & Network Security Certification  
-- YouTube content for beginners in cybersecurity  
-
----
-
-## 👨‍💻 Featured Projects
-
-🚛 **AOL Truck Management System**  
-> A custom-built logistics management system developed for:  
-> 🔹 [All Over Logistics](https://alloverlogistics.com)  
-> 🔹 [277 Logistics](https://277logistics.com)  
->  
-> 🛠 Built with:  
-> • **Frontend:** React.js + Vite  
-> • **Backend:**  Laravel (Driver Auth)  
-> • **Database:** MySQL  
-> • **Admin Panel:** Filament (PHP)  
-> • **Deployment:** Hostinger Servers  
->  
-> 🔑 Features include role-based access, trip assignment, expense tracking, maintenance logs & real-time reporting.
-
-🧠 **AlgoExpert Practice**  
-> JavaScript & Python-based data structures & algorithm solutions  
-
-☁️ **Nextcloud Drive**  
-> Self-hosted internal document cloud for secure sharing & backups  
+| Skill                                        |
+|----------------------------------------------|
+| SIEM Implementation and Log Analysis         |
+| Network Traffic Monitoring and Attack Detection |
+| Security Automation with Shuffle SOAR        |
+| Incident Response Planning and Execution     |
+| Case Management with TheHive                 |
+| Scripting and Automation for Threat Mitigation |
 
 ---
 
+## 📁 Projects
+
+### 🚚 [AOL Truck Management System](https://github.com/antonymbugua742/aol-trucking-system)
+> React + Node.js + MySQL | Laravel + Filament  
+Web system to manage logistics company operations: drivers, trips, fleet maintenance, expenses, and reports.
+
+### 📦 Self-Hosted Nextcloud File System
+> VPS + Nginx + SSL  
+Secure internal drive used for document handling in a logistics firm.
+
+### 🌦️ Decoupled Weather App
+> Frontend: Next.js + TypeScript + RippleUI  
+> Backend: Laravel REST API with OpenWeatherMap integration  
+Demonstrates modular API-based architecture.
 
 ---
 
-## 🧰 Tech Stack
+## 🎓 Certifications & Badges
 
-<img src="https://skillicons.dev/icons?i=react,laravel,nodejs,mysql,php,ts,js,cs,html,css,tailwind,bash,linux,vscode,github" />
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-mbugua&show_icons=true&theme=github_dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-mbugua&layout=compact&theme=github_dark" width="49%" />
-</p>
+- 🛡️ **Fundamentals of Cybersecurity** – Coursera  
+- ☁️ **Cloud and Network Security (Ongoing)** – Cyber Shujaa  
+- 🧠 **Hack The Box Academy Modules** – Intro to Academy, Linux Fundamentals  
+- 💥 **TryHackMe Badges** – Pre-Security, Offensive Pentesting (In Progress)
 
 ---
 
-## 🌐 Connect With Me
+## 🔐 Cybersecurity Practice & Writeups
 
-[<img align="left" alt="YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **Hack The Box**
+  - Kioptrix 1–5 | Linux privilege escalation
+  - Intro to Academy module writeup w/ screenshots
 
-<br/><br/>
+- **TryHackMe**
+  - Pre-Security labs: terminal, networking, Linux
+  - Building offensive/defensive skills
 
-📬 **Email:** antonymbugua742@gmail.com  
-🧠 **TryHackMe:** [incog742](https://tryhackme.com/p/incog742)  
-🛡️ **Hack The Box:** [kiregi742](https://app.hackthebox.com/profile/800291)  
+📌 _More writeups coming soon!_ Planning to add a `writeups/` folder with markdown files and screenshots.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonymbugua/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/antonymbugua742)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonymbugua742@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonymbugua742&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonymbugua742&layout=compact)
 
 ---
 
 <!--
-**antony-mbugua/antony-mbugua** is a ✨ special ✨ GitHub profile because its README.md appears on your profile!
-
-Feel free to fork interesting projects or connect with me for collaboration!
+**antonymbugua742/antonymbugua742** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-[twitter]: https://twitter.com/tow_knee_
-[youtube]: https://www.youtube.com/c/antonymbugua
-[instagram]: https://www.instagram.com/tow_knee_/
-[linkedin]: https://linkedin.com/in/antony-mbugua
