@@ -5,9 +5,9 @@
 
 ### 🧑‍💻 About Me
 
-🎓 Final year student at **KCA University**, specializing in **Information Security & Forensics**  
-💼 Currently a **Cybersecurity Intern** at **The Red Users**  
-🧠 Learning through **Cyber Shujaa** scholarship — Cloud & Network Security  
+🎓 **Bsc Applied Computing** holder, specialized in **Information Security & Forensics**  from **KCA University**
+💼  **Cybersecurity Expert**   
+🧠 **Digital Guardian**  
 🛠️ Developer of internal systems for logistics companies **All Over Logistics** and **277 Logistics**  
 🎯 Passionate about building secure, scalable web systems and hands-on cybersecurity practice
 
