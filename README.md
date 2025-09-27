@@ -1,113 +1,117 @@
-<h1 align="center">Hi 👋, I'm Antony Mbugua Githinji</h1>
-<h3 align="center">🚀 Developer | 🛡️ Cybersecurity Enthusiast | ☁️ Cloud Learner</h3>
+<h1 align="center">👋 Hello, I'm Antony Mbugua Githinji</h1>
+<h3 align="center">🛡️ Cybersecurity Practitioner | 🚀 Systems Developer | ☁️ Cloud & AI Enthusiast</h3>
 
 ---
-
-### 🧑‍💻 About Me
-
-🎓 **Bsc Applied Computing** holder, specialized in **Information Security & Forensics**  from **KCA University**
-💼  **Cybersecurity Expert**   
-🧠 **Digital Guardian**  
-🛠️ Developer of internal systems for logistics companies **All Over Logistics** and **277 Logistics**  
-🎯 Passionate about building secure, scalable web systems and hands-on cybersecurity practice
-
----
-
-### 💻 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,mysql,php,ts,js,cs,html,css,tailwind,bash,linux,vscode,github" />
-</p>
-
----
-
-## 🧰 Tools
-
-### 🛰️ Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### 💻 Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### 📊 SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
----
-
-## 🧠 Skills
-
-| Skill                                        |
-|----------------------------------------------|
-| SIEM Implementation and Log Analysis         |
-| Network Traffic Monitoring and Attack Detection |
-| Security Automation with Shuffle SOAR        |
-| Incident Response Planning and Execution     |
-| Case Management with TheHive                 |
-| Scripting and Automation for Threat Mitigation |
-
----
-
-## 📁 Projects
-
-### 🚚 [AOL Truck Management System](https://github.com/antonymbugua742/aol-trucking-system)
-> React + Node.js + MySQL | Laravel + Filament  
-Web system to manage logistics company operations: drivers, trips, fleet maintenance, expenses, and reports.
-
-### 📦 Self-Hosted Nextcloud File System
-> VPS + Nginx + SSL  
-Secure internal drive used for document handling in a logistics firm.
-
----
-
-## 🎓 Certifications & Badges
-
-- 🛡️ **Fundamentals of Cybersecurity** – Coursera  
-- ☁️ **Cloud and Network Security (Ongoing)** – Cyber Shujaa  
-- 🧠 **Hack The Box Academy Modules** – Intro to Academy, Linux Fundamentals  
-- 💥 **TryHackMe Badges** – Pre-Security, Offensive Pentesting (In Progress)
-
----
-
-## 🔐 Cybersecurity Practice & Writeups
-
-- **Hack The Box**
-  - Kioptrix 1–5 | Linux privilege escalation
-  - Intro to Academy module writeup w/ screenshots
-
-- **TryHackMe**
-  - Pre-Security labs: terminal, networking, Linux
-  - Building offensive/defensive skills
-
-📌 _More writeups coming soon!
-
----
-
-📫 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/antony-mbugua/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/antony-mbugua"> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:antonymbugua742@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tryhackme.com/p/incog742"> <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://app.hackthebox.com/profile/800291"> <img src="https://img.shields.io/badge/Hack_The_Box-111927?logo=hackthebox&logoColor=white&style=for-the-badge" alt="Hack The Box" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/@antony-mbugua" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/tow_knee_" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tow_knee_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> </div>
-
-
----
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-mbugua&show_icons=true&theme=github_dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-mbugua&layout=compact&theme=github_dark" width="49%" />
+  <a href="https://antony-mbugua.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 View%20My%20Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
-<!--
-**antonymbugua742/antonymbugua742** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+## 🔹 About Me  
+
+🎓 **BSc Applied Computing (Information Security & Forensics)** – KCA University *(Graduating Nov 2025)*  
+💼 **Cybersecurity Intern @ The Red Users (Completed)** – SIEM, threat detection, incident response  
+🏥 **ICT Support Intern @ Local Hospital** – troubleshooting, networking, healthcare IT support  
+🚚 **Developer of Transport Management Systems** for **All Over Logistics** & **277 Logistics**  
+☁️ **Graduate – Cloud & Network Security (Cyber Shujaa Program)**  
+🤖 Currently exploring **Generative AI & Agentic AI** at the **Open University of Kenya (OUK)**  
+
+---
+
+## ⚡ What I Do  
+
+- 🛡️ **Cybersecurity:** SIEM setup, log analysis, incident response, digital forensics  
+- 💻 **Secure Development:** Full-stack Transport Management Systems (**React, Node.js, Laravel, MySQL**)  
+- ☁️ **Cloud Security:** Zero Trust, MFA, key rotation, secure APIs  
+- 🤖 **AI Exploration:** Generative AI & Agentic AI for secure automation and intelligent workflows  
+
+---
+
+## 🛠️ Security & Development Toolkit  
+
+### 🔐 Cybersecurity  
+<p>
+  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
+  <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" /></a>
+  <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=gnometerminal&logoColor=white" /></a>
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" /></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2E77BC?style=flat&logo=metasploit&logoColor=white" /></a>
+  <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-333333?style=flat&logo=windows-terminal&logoColor=white" /></a>
+  <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/Volatility-000000?style=flat&logo=linux&logoColor=white" /></a>
+  <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/Maltego-003366?style=flat&logo=maltego&logoColor=white" /></a>
+</p>  
+
+### 💻 Development  
+<p>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+</p>  
+
+### ☁️ Cloud & Security  
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://nextcloud.com/"><img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" /></a>
+  <a href="https://www.hostinger.com/"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ZTA%20Security-FF5733?style=flat&logo=datadog&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MFA-2E8B57?style=flat&logo=google-authenticator&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AES--256%20Encryption-191970?style=flat&logo=letsencrypt&logoColor=white" /></a>
+</p>  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **Transport Management System** – Logistics automation with secure auth, OCR & expense tracking  
+🔹 **Nextcloud Deployment** – Self-hosted private cloud for secure file storage  
+🔹 **Weather App (Decoupled)** – Next.js + Laravel + OpenWeatherMap API  
+
+👉 More on my [Portfolio](https://antony-mbugua.github.io)  
+
+---
+
+## 📜 Certifications  
+
+✅ **Fundamentals of Cybersecurity** – Coursera  
+✅ **Cloud & Network Security Graduate** – Cyber Shujaa Program  
+✅ *(In progress: Generative AI & Agentic AI)*  
+
+---
+
+## 📝 Writeups  
+
+📂 Explore my **CTF Writeups & Cybersecurity Reports** → [Writeups Repository](https://github.com/Antony-Mbugua?tab=repositories&q=writeups&type=&language=)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antony-Mbugua&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Mbugua&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+
+- 📧 **Email:** antonymbugua742@gmail.com  
+- 📱 **Phone:** +254 745 390 742  
+- 💼 **LinkedIn:** [linkedin.com/in/antony-mbugua](https://linkedin.com/in/antony-mbugua)  
+
+---
+
+<p align="center">⚡ “Building secure systems for a connected world.” ⚡</p>
