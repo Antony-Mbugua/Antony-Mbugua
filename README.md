@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="https://antony-mbugua.github.io" target="_blank">
+  <a href="https://antony-mbugua.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐 View%20My%20Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -35,40 +35,40 @@
 
 ### 🔐 Cybersecurity  
 <p>
-  <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
-  <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" /></a>
-  <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
-  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /></a>
-  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=gnometerminal&logoColor=white" /></a>
-  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" /></a>
-  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2E77BC?style=flat&logo=metasploit&logoColor=white" /></a>
-  <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-333333?style=flat&logo=windows-terminal&logoColor=white" /></a>
-  <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/Volatility-000000?style=flat&logo=linux&logoColor=white" /></a>
-  <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/Maltego-003366?style=flat&logo=maltego&logoColor=white" /></a>
+  <a href="https://wazuh.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" /></a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /></a>
+  <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=gnometerminal&logoColor=white" /></a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" /></a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Metasploit-2E77BC?style=flat&logo=metasploit&logoColor=white" /></a>
+  <a href="https://www.autopsy.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Autopsy-333333?style=flat&logo=windows-terminal&logoColor=white" /></a>
+  <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Volatility-000000?style=flat&logo=linux&logoColor=white" /></a>
+  <a href="https://www.maltego.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Maltego-003366?style=flat&logo=maltego&logoColor=white" /></a>
 </p>  
 
 ### 💻 Development  
 <p>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
 </p>  
 
 ### ☁️ Cloud & Security  
 <p>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
-  <a href="https://nextcloud.com/"><img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" /></a>
-  <a href="https://www.hostinger.com/"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/ZTA%20Security-FF5733?style=flat&logo=datadog&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MFA-2E8B57?style=flat&logo=google-authenticator&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AES--256%20Encryption-191970?style=flat&logo=letsencrypt&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://nextcloud.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" /></a>
+  <a href="https://www.hostinger.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ZTA%20Security-FF5733?style=flat&logo=datadog&logoColor=white" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MFA-2E8B57?style=flat&logo=google-authenticator&logoColor=white" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AES--256%20Encryption-191970?style=flat&logo=letsencrypt&logoColor=white" /></a>
 </p>  
 
 ---
@@ -79,7 +79,7 @@
 🔹 **Nextcloud Deployment** – Self-hosted private cloud for secure file storage  
 🔹 **Weather App (Decoupled)** – Next.js + Laravel + OpenWeatherMap API  
 
-👉 More on my [Portfolio](https://antony-mbugua.github.io)  
+👉 More on my <a href="https://antony-mbugua.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a>  
 
 ---
 
@@ -93,7 +93,8 @@
 
 ## 📝 Writeups  
 
-📂 Explore my **CTF Writeups & Cybersecurity Reports** → [Writeups Repository](https://github.com/Antony-Mbugua?tab=repositories&q=writeups&type=&language=)  
+📂 Explore my **CTF Writeups & Cybersecurity Reports** →  
+<a href="[https://antony-mbugua.github.io?tab=repositories&q=writeups&type=&language=" target="_blank" rel="noopener noreferrer">Writeups Repository</a>  
 
 ---
 
@@ -108,9 +109,9 @@
 
 ## 📫 Contact Me  
 
-- 📧 **Email:** antonymbugua742@gmail.com  
+- 📧 **Email:** <a href="mailto:antonymbugua742@gmail.com" target="_blank" rel="noopener noreferrer">antonymbugua742@gmail.com</a>  
 - 📱 **Phone:** +254 745 390 742  
-- 💼 **LinkedIn:** [linkedin.com/in/antony-mbugua](https://linkedin.com/in/antony-mbugua)  
+- 💼 **LinkedIn:** <a href="https://linkedin.com/in/antony-mbugua" target="_blank" rel="noopener noreferrer">linkedin.com/in/antony-mbugua</a>  
 
 ---
 
